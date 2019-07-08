@@ -10,7 +10,7 @@ public class BinaryTree {
     private String nodeValue;
     private String rootNode;
 
-    //First
+    //First Project Implementation
     public BinaryTree(){
         super();
         this.rootNode = null;
